@@ -9,6 +9,10 @@ that the python img2pdf program is required for pdf.sh
 to work. For more information on usage, please refer to
 the source code.
 
+Scanning Quality
+--------------------
+See a sample image under cap/0.jpg.
+
 License
 --------------------
 MIT
